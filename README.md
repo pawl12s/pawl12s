@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolv
 - **JavaScript** (Node.js, React, Express)
 - **Python** (Django, Flask)
 - **Java** (Spring Boot)
-- 
+
 ### Frameworks e Bibliotecas
 - **React** / **React Native**
 - **Vue.js**
@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolv
 - **MongoDB**
 
 ## 🌱 Outras habilidades
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+[https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665]
 
 ## 📫 Como me Encontrar
 
