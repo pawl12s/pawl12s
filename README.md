@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolv
 - **MongoDB**
 
 ## 🌱 Outras habilidades
-[https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665]
+[[after](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]
 
 ## 📫 Como me Encontrar
 
