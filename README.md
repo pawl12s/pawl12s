@@ -8,6 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolv
 - **JavaScript** (Node.js, React, Express)
 - **Python** (Django, Flask)
 - **Java** (Spring Boot)
+- **HTML** 
 
 ### Frameworks e Bibliotecas
 - **React** / **React Native**
