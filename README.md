@@ -1,6 +1,6 @@
-# Olá, Eu sou Paulo André 👋
+# Criador da Empty Client🎰
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi e contribuições para a comunidade. Sou apaixonado por programação e estou sempre aprendendo novas tecnologias.
+Poucos Projetos, Grandes ambições...
 
 ## 💻 Minhas Habilidades
 
@@ -8,7 +8,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolv
 - **JavaScript** (Node.js, React, Express)
 - **Python** (Django, Flask)
 - **Java** (Spring Boot)
-- **HTML** 
+- **HTML**
+- Aprendendo C# e C++
 
 ### Frameworks e Bibliotecas
 - **React** / **React Native**
